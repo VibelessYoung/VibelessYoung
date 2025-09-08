@@ -49,7 +49,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=VibelessYoung&show_icons=true&theme=tokyonight&include_all_commits=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VibelessYoung&layout=compact&langs_count=8&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=VibelessYoung&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-profile-trophy.vercel.app/?username=VibelessYoung&theme=tokyonight&row=1&column=6" />
 </p>
 
