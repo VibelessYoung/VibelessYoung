@@ -14,7 +14,7 @@
 ## About Me
 
 - 🛠️ I'm currently working on **a website like toplearn**
-- 🌱 I'm currently learning **JS**
+- 🌱 I'm currently learning **React**
 - 📁 All of my projects are available at <a href="https://github.com/VibelessYoung?tab=repositories">Click Here</a>
 - 📬 How to reach me: <a href="mailto:VibelessYoung@gmail.com">VibelessYoung@gmail.com</a>
 
@@ -22,24 +22,26 @@
 
 ### Connect with me
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/VibelessYoung)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/Vibeless.Young)
+<a href="https://t.me/VibelessYoung">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" style="height:30px; vertical-align:middle;" />
+</a>
+<a href="https://instagram.com/Vibeless.Young">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" style="height:30px; vertical-align:middle;" />
+</a>
 
 ---
 
 ### Languages and Tools
 
 <p>
-  <!-- HTML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" />
-  <!-- CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" />
-  <!-- Sass -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="32" />
-  <!-- Bootstrap -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" />
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="52" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="52" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="52" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="52" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="52" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="52" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="52" />
+
 </p>
 
 ---
