@@ -14,7 +14,7 @@
 ## About Me
 
 - 🛠️ I'm currently working on **a website like toplearn**
-- 🌱 I'm currently learning **React**
+- 🌱 I'm currently learning **Tailwind**
 - 📁 All of my projects are available at <a href="https://github.com/VibelessYoung?tab=repositories">Click Here</a>
 - 📬 How to reach me: <a href="mailto:VibelessYoung@gmail.com">VibelessYoung@gmail.com</a>
 
@@ -40,6 +40,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="52" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="52" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="52" />
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="52" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="52" />
 
 </p>
