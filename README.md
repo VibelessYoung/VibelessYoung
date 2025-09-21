@@ -45,7 +45,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" /><br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" /><br>Sass
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="Sass" /><br>Sass
     </td>
     <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="48" height="48" alt="Tailwind" /><br>Tailwind
