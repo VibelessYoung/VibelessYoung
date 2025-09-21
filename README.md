@@ -1,12 +1,10 @@
 ## 🧑‍💻
 
 <p align="center">
-  <a href="https://mamrez.dev" target="_blank">
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=900&color=3DDCFF&center=true&vCenter=true&width=600&lines=keep+on+going;never+give+up;if+you+don't+want;if+you+don't+win;it+doesn't+matter."
       alt="Typing SVG"
     />
-  </a>
 </p>
 
 ---
