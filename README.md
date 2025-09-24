@@ -18,7 +18,7 @@
 - 🛠️ I'm currently working on **my projects**
 - 🌱 I'm currently learning **Tailwind**
 - 🎯 Goal: **Become a Full-Stack Dev**  
-- 💎 Passion: **Luxury • Style • Modeling**
+- 💎 Passion: **Luxury • Style**
 - 📁 All of my projects are available at <a href="https://github.com/VibelessYoung?tab=repositories">Click Here</a>
 - 📬 How to reach me: <a href="mailto:VibelessYoung@gmail.com">VibelessYoung@gmail.com</a>
 
