@@ -15,7 +15,7 @@
 
 ### ⚡ About Me
 
-- 🛠️ I'm currently working on **a website like toplearn**
+- 🛠️ I'm currently working on **my projects**
 - 🌱 I'm currently learning **Tailwind**
 - 🎯 Goal: **Become a Full-Stack Dev**  
 - 💎 Passion: **Luxury • Style • Modeling**
