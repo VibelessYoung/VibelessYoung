@@ -16,7 +16,7 @@
 ### ⚡ About Me
 
 - 🛠️ I'm currently working on **my projects**
-- 🌱 I'm currently learning **Tailwind**
+- 🌱 I'm currently learning **JS**
 - 🎯 Goal: **Become a Full-Stack Dev**  
 - 💎 Passion: **Luxury • Style**
 - 📁 All of my projects are available at <a href="https://github.com/VibelessYoung?tab=repositories">Click Here</a>
