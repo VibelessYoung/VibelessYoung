@@ -86,6 +86,12 @@
 </p>
 
 ---
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zzz.png" alt="Zzz" width="20" height="20" /> Top Repositories
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=VibelessYoung&show_private=true&show_total_contributions=true&theme=midnight-purple&combine_all_yearly_contributions=true&limit=5&hide_border=true"/>
+</p>
+
+---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" /> Most Used Languages
 <p align="center">
@@ -94,16 +100,16 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="20" height="20" /> Trophies
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> Streaks
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vibelessyoung&theme=juicyfresh&no-frame=true&margin-w=5" />
+  <img src="https://streak-stats.demolab.com/?user=vibelessyoung&theme=midnight-purple&hide_border=true"/>
 </p>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> Streaks
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="20" height="20" /> Trophies
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vibelessyoung&theme=modern-lilac&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vibelessyoung&theme=juicyfresh&no-frame=true&margin-w=5" />
 </p>
 
 ---
