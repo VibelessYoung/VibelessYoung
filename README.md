@@ -6,14 +6,14 @@
 
 <p align="center">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=900&color=3DDCFF&center=true&vCenter=true&width=600&lines=keep+on+going;never+give+up;if+you+don't+want;if+you+don't+win;it+doesn't+matter."
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2000&pause=900&color=3DDCFF&center=true&vCenter=true&width=600&lines=keep+on+going;never+give+up;if+you+don't+want;if+you+don't+win;it+doesn't+matter."
       alt="Typing SVG"
     />
 </p>
 
----
+<img src="line-img.png" alt="Gradient" />
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> About Me
+### 👤 About Me:
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> I'm currently working on **my projects**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> I'm currently learning **JS**
@@ -22,7 +22,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Card Index Dividers" width="25" height="25" /> All of my projects are available at <a href="https://github.com/VibelessYoung?tab=repositories">Click Here</a>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> How to reach me: <a href="mailto:VibelessYoung@gmail.com">VibelessYoung@gmail.com</a>
 
----
+<img src="line-img.png" alt="Gradient" />
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Folded Hands Medium-Light Skin Tone" width="25" height="25" /> Connect With Me
 <p align="center">
@@ -31,9 +31,9 @@
   <a href="https://t.me/vibelessyoung"><img src="https://img.shields.io/badge/Telegram-0088CC?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
----
+<img src="line-img.png" alt="Gradient" />
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="20" height="20" /> Languages and Tools
+### 🛠️ Languages and Tools
 
 <table align="center">
   <tr>
@@ -78,45 +78,30 @@
   </tr>
 </table>
 
----
+<img src="line-img.png" alt="Gradient" />
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/One-Thirty.png" alt="One-Thirty" width="20" height="20" /> GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vibelessyoung&show_icons=true&theme=midnight-purple&hide_border=true" height="170"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=VibelessYoung&show_private=true&show_total_contributions=true&theme=midnight-purple&combine_all_yearly_contributions=true&limit=5&hide_border=true" height="170"/>
 </p>
 
----
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zzz.png" alt="Zzz" width="20" height="20" /> Top Repositories
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=VibelessYoung&show_private=true&show_total_contributions=true&theme=midnight-purple&combine_all_yearly_contributions=true&limit=5&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=vibelessyoung&theme=midnight-purple&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibelessyoung&layout=donut&theme=midnight-purple&hide_border=true" height="170"/>
 </p>
 
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" /> Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibelessyoung&layout=compact&theme=midnight-purple&hide_border=true" />
-</p>
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> Streaks
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vibelessyoung&theme=midnight-purple&hide_border=true"/>
-</p>
-
----
+<img src="line-img.png" alt="Gradient" />
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="20" height="20" /> Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vibelessyoung&theme=juicyfresh&no-frame=true&margin-w=5" />
 </p>
 
----
+<img src="line-img.png" alt="Gradient" />
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Roller%20Coaster.png" alt="Roller Coaster" width="20" height="20" /> Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vibelessyoung&theme=github-compact&area=true"/>
 </p>
-
----
