@@ -55,10 +55,16 @@
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VSCode" /><br>VSCode
     </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" alt="VSCode" /><br>Linux
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="60" height="60" alt="Astro" /><br>Astro
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg" width="60" height="60" alt="VSCode" /><br>npm
     </td>
     <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/vite/06B6D4" width="60" height="60" alt="Vite" /><br>Vite
