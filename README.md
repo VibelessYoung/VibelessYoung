@@ -38,10 +38,10 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" /><br>HTML
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" /><br>HTML5
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS" /><br>CSS
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" /><br>CSS3
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" alt="Bootstrap" /><br>Bootstrap
@@ -50,13 +50,13 @@
       <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="60" height="60" alt="Sass" /><br>Sass
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="60" height="60" alt="Tailwind" /><br>Tailwind
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="60" height="60" alt="TailwindCSS" /><br>TailwindCSS
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VSCode" /><br>VSCode
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" alt="VSCode" /><br>Linux
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" alt="Linux" /><br>Linux
     </td>
   </tr>
   <tr>
@@ -64,7 +64,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="60" height="60" alt="Astro" /><br>Astro
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg" width="60" height="60" alt="VSCode" /><br>npm
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg" width="60" height="60" alt="npm" /><br>npm
     </td>
     <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/vite/06B6D4" width="60" height="60" alt="Vite" /><br>Vite
