@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="font-size:50px;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Purple Heart" width="35" height="35" /> Welcome <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Purple Heart" width="35" height="35" />
+    Welcome
   </h1>
 </div>
 
