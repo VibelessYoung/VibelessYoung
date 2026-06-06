@@ -1,8 +1,8 @@
 <div align="center">
-  <h1 style="font-size:50px;">
-    Welcome
-  </h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome" />
 </div>
+
+<img src="line-img.png" alt="Gradient" />
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2000&pause=900&color=3DDCFF&center=true&vCenter=true&width=600&lines=Creative+Designer;Front-End+Developer" />
