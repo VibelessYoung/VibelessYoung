@@ -76,7 +76,7 @@
     <img src="https://cdn.simpleicons.org/vite/06B6D4" width="60" height="60" alt="Vite" /><br>Vite  
     </td>
     <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VSCode" /><br>VSCode
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" /><br>MongoDB
     </td>
     <td align="center" width="96">
     <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="60" height="60" alt="prettier" /><br>prettier
