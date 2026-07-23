@@ -2,13 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome" />
 </div>
 
-<img src="line-img.png" alt="Gradient" />
+<img src="line-img.png" alt="Gradient" height="10" width="100%" />
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2000&pause=900&color=3DDCFF&center=true&vCenter=true&width=600&lines=Creative+Designer;Front-End+Developer" />
 </p>
 
-<img src="line-img.png" alt="Gradient" />
+<img src="line-img.png" alt="Gradient" height="10" width="100%" />
 
 ### 👤 About Me:
 
@@ -19,7 +19,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Card Index Dividers" width="25" height="25" /> All of my projects are available at <a href="https://github.com/VibelessYoung?tab=repositories">My Repositories</a>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> How to reach me: <a href="mailto:VibelessYoung@gmail.com">VibelessYoung@gmail.com</a>
 
-<img src="line-img.png" alt="Gradient" />
+<img src="line-img.png" alt="Gradient" height="10" width="100%" />
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Folded Hands Medium-Light Skin Tone" width="25" height="25" /> Connect With Me
 <p align="center">
@@ -28,7 +28,7 @@
   <a href="https://t.me/vibelessyoung"><img src="https://img.shields.io/badge/Telegram-0088CC?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
-<img src="line-img.png" alt="Gradient" />
+<img src="line-img.png" alt="Gradient" height="10" width="100%" />
 
 ### 🛠️ Languages and Tools
 
@@ -79,7 +79,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" /><br>MongoDB
     </td>
     <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="60" height="60" alt="prettier" /><br>prettier
+    <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="60" height="60" alt="prettier" /><br>Prettier
     </td>
     <td align="center" width="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" alt="Linux" /><br>Linux
@@ -87,7 +87,7 @@
   </tr>
 </table>
 
-<img src="line-img.png" alt="Gradient" />
+<img src="line-img.png" alt="Gradient" height="10" width="100%" />
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/One-Thirty.png" alt="One-Thirty" width="20" height="20" /> GitHub Stats
 
@@ -101,14 +101,14 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibelessyoung&layout=donut&theme=midnight-purple&hide_border=true" height="170"/>
 </p>
 
-<img src="line-img.png" alt="Gradient" />
+<img src="line-img.png" alt="Gradient" height="10" width="100%" />
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="20" height="20" /> Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vibelessyoung&theme=juicyfresh&no-frame=true&margin-w=5" />
 </p>
 
-<img src="line-img.png" alt="Gradient" />
+<img src="line-img.png" alt="Gradient" height="10" width="100%" />
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Roller%20Coaster.png" alt="Roller Coaster" width="20" height="20" /> Contribution Graph
 <p align="center">
