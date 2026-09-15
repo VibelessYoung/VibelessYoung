@@ -5,7 +5,7 @@
 <img src="line-img.png" alt="Gradient" height="10" width="100%" />
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2000&pause=900&color=3DDCFF&center=true&vCenter=true&width=600&lines=Creative+Designer;Front-End+Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2000&pause=900&color=3DDCFF&center=true&vCenter=true&width=600&lines=Creative+Designer;Full-Stack+Developer" />
 </p>
 
 <img src="line-img.png" alt="Gradient" height="10" width="100%" />
