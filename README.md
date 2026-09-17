@@ -12,9 +12,9 @@
 
 ### 👤 About Me:
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> current work on **my projects**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Current Focus: Next-JS + Advanced React
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> Goal: **Become a Full-Stack Dev**  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> current work on **CyrefJS**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Current Focus: TypeScript
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> Goal: **Get Job**  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" /> Passion: **Luxury • Style • Anime • Game**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Card Index Dividers" width="25" height="25" /> All of my projects are available at <a href="https://github.com/VibelessYoung?tab=repositories">My Repositories</a>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> How to reach me: <a href="mailto:VibelessYoung@gmail.com">VibelessYoung@gmail.com</a>
@@ -44,45 +44,64 @@
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript" /><br>JavaScript
     </td>
     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" height="60" alt="TypeScript" /><br>TypeScript
+    </td>
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60" alt="React" /><br>React
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="VSCode" /><br>NextJS
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="NextJS" /><br>NextJS
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="60" height="60" alt="TailwindCSS" /><br>TailwindCSS  
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="60" height="60" alt="TailwindCSS" /><br>TailwindCSS
     </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="60" height="60" alt="Sass" /><br>Sass
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" alt="Bootstrap" /><br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="60" height="60" alt="Astro" /><br>Astro
+    </td>
+  </tr>
+
+  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git" /><br>Git
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" alt="GitHub" /><br>GitHub
     </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg" width="60" height="60" alt="npm" /><br>npm
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/vite/06B6D4" width="60" height="60" alt="Vite" /><br>Vite
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="60" height="60" alt="Prettier" /><br>Prettier
+    </td>
   </tr>
+
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="60" height="60" alt="Astro" /><br>Astro
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="60" height="60" alt="ESLint" /><br>ESLint
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="60" height="60" alt="Sass" /><br>Sass   
+      <img src="https://vitest.dev/logo.svg" width="60" height="60" alt="Vitest" /><br>Vitest
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" alt="Bootstrap" /><br>Bootstrap
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" /><br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg" width="60" height="60" alt="npm" /><br>npm  
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60" alt="Postman" /><br>Postman
     </td>
     <td align="center" width="96">
-    <img src="https://cdn.simpleicons.org/vite/06B6D4" width="60" height="60" alt="Vite" /><br>Vite  
-    </td>
-    <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" /><br>MongoDB
-    </td>
-    <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="60" height="60" alt="prettier" /><br>Prettier
-    </td>
-    <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" alt="Linux" /><br>Linux
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" alt="Linux" /><br>Linux
     </td>
   </tr>
 </table>
