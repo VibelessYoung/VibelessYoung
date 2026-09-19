@@ -1,135 +1,148 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1E2A8A,45:6B2FA8,75:9B2D6F,100:7A2020&text=VIBELESS&fontColor=FFFFFF&fontSize=55&fontAlignY=40&animation=fadeIn" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Creative+Designer;Building+Digital+Experiences" />
+
+<br>
+
 </div>
 
-<img src="line-img.png" alt="Gradient" height="10" width="100%" />
+<img src="line-img.png" alt="Gradient" height="3" width="100%" />
 
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2000&pause=900&color=3DDCFF&center=true&vCenter=true&width=600&lines=Creative+Designer;Full-Stack+Developer" />
-</p>
+<br>
 
-<img src="line-img.png" alt="Gradient" height="10" width="100%" />
+<div align="center">
 
-### 👤 About Me:
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" height="46" />
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> current work on **CyrefJS**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> Current Focus: TypeScript
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> Goal: **Get Job**  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" /> Passion: **Luxury • Style • Anime • Game**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Card Index Dividers" width="25" height="25" /> All of my projects are available at <a href="https://github.com/VibelessYoung?tab=repositories">My Repositories</a>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> How to reach me: <a href="mailto:VibelessYoung@gmail.com">VibelessYoung@gmail.com</a>
+<img src="https://techstack-generator.vercel.app/react-icon.svg" height="46" />
 
-<img src="line-img.png" alt="Gradient" height="10" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="46" />
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Folded Hands Medium-Light Skin Tone" width="25" height="25" /> Connect With Me
-<p align="center">
-  <a href="https://instagram.com/vibelessdev"><img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:vibelessyoung@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/vibelessyoung"><img src="https://img.shields.io/badge/Telegram-0088CC?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" height="46" />
 
-<img src="line-img.png" alt="Gradient" height="10" width="100%" />
+**Building interfaces that feel as good as they work.**
 
-### 🛠️ Languages and Tools
+</div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" /><br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" /><br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript" /><br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" height="60" alt="TypeScript" /><br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60" alt="React" /><br>React
-    </td>
-  </tr>
+<br>
 
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="NextJS" /><br>NextJS
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="60" height="60" alt="TailwindCSS" /><br>TailwindCSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="60" height="60" alt="Sass" /><br>Sass
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" alt="Bootstrap" /><br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="60" height="60" alt="Astro" /><br>Astro
-    </td>
-  </tr>
+<img src="line-img.png" alt="Gradient" height="3" width="100%" />
 
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git" /><br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" alt="GitHub" /><br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg" width="60" height="60" alt="npm" /><br>npm
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/vite/06B6D4" width="60" height="60" alt="Vite" /><br>Vite
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="60" height="60" alt="Prettier" /><br>Prettier
-    </td>
-  </tr>
+### ✦ About Me
 
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="60" height="60" alt="ESLint" /><br>ESLint
-    </td>
-    <td align="center" width="96">
-      <img src="https://vitest.dev/logo.svg" width="60" height="60" alt="Vitest" /><br>Vitest
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" /><br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60" alt="Postman" /><br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" alt="Linux" /><br>Linux
-    </td>
-  </tr>
-</table>
+I'm **Amir**, a developer focused on building modern, refined and purposeful digital experiences.
 
-<img src="line-img.png" alt="Gradient" height="10" width="100%" />
+Currently working on **[CyrefJS](https://github.com/VibelessYoung/CyrefJS)** — a TypeScript library created as a practical deep dive into JavaScript, TypeScript, testing and library design.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/One-Thirty.png" alt="One-Thirty" width="20" height="20" /> GitHub Stats
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vibelessyoung&show_icons=true&theme=midnight-purple&hide_border=true" height="170"/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=VibelessYoung&show_private=true&show_total_contributions=true&theme=midnight-purple&combine_all_yearly_contributions=true&limit=5&hide_border=true" height="170"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=vibelessyoung&theme=midnight-purple&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibelessyoung&layout=donut&theme=midnight-purple&hide_border=true" height="170"/>
-</p>
+**Currently exploring**
 
-<img src="line-img.png" alt="Gradient" height="10" width="100%" />
+`TypeScript`   `Advanced JavaScript`   `Software Engineering`   `UI / UX`
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="20" height="20" /> Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vibelessyoung&theme=juicyfresh&no-frame=true&margin-w=5" />
-</p>
+</div>
 
-<img src="line-img.png" alt="Gradient" height="10" width="100%" />
+<br>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Roller%20Coaster.png" alt="Roller Coaster" width="20" height="20" /> Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vibelessyoung&theme=github-compact&area=true"/>
-</p>
+<img src="line-img.png" alt="Gradient" height="3" width="100%" />
+
+### ✦ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,astro,sass,bootstrap,mongodb&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=git,github,npm,vitest,postman,linux,nodejs,vscode,redux,vercel&theme=dark" />
+
+</div>
+
+<br>
+
+<img src="line-img.png" alt="Gradient" height="3" width="100%" />
+
+### ✦ Selected Work
+
+
+<div align="center">
+
+### ⟡ CyrefJS
+
+**A TypeScript library built from the ground up.**
+
+Exploring utility design, type safety, testing, API design and
+the fundamentals behind modern JavaScript libraries.
+
+<br>
+
+<a href="https://github.com/VibelessYoung/CyrefJS">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-111111?style=for-the-badge&logo=github&logoColor=3DDCFF"/>
+</a>
+
+</div>
+
+<br>
+
+<img src="line-img.png" alt="Gradient" height="3" width="100%" />
+
+### ✦ Philosophy
+
+<div align="center">
+
+### **Less, but better.**
+
+I care about the details that make software feel intentional —
+from architecture and naming to interaction and visual hierarchy.
+
+</div>
+
+<br>
+
+<img src="line-img.png" alt="Gradient" height="3" width="100%" />
+
+### ✦ Beyond Code
+
+<div align="center">
+
+**Luxury**　•　**Style**　•　**Anime**　•　**Games**
+
+</div>
+
+<br>
+
+<img src="line-img.png" alt="Gradient" height="3" width="100%" />
+
+<div align="center">
+
+### Let's build something meaningful.
+
+<br>
+
+<a href="mailto:VibelessYoung@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=3DDCFF"/>
+</a>
+
+<a href="https://github.com/VibelessYoung">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=3DDCFF"/>
+</a>
+
+<a href="https://instagram.com/vibelessdev">
+<img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=3DDCFF"/>
+</a>
+
+<a href="https://t.me/vibelessyoung">
+<img src="https://img.shields.io/badge/TELEGRAM-111111?style=for-the-badge&logo=telegram&logoColor=3DDCFF"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:1E2A8A,45:6B2FA8,75:9B2D6F,100:7A2020" width="100%"/>
+
+<sub>© 2026 Amir · VibelessYoung</sub>
+
+</div>
